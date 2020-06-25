@@ -75,7 +75,6 @@ h3 {
 	display: none;
 }
 
-/* BUTTONS */
 
 .btn {
 	font-size: .7cm;
@@ -97,13 +96,12 @@ h3 {
 	transition: transform 100ms;
 }
 
-.btn[disabled]:hover {
+/* .btn[disabled]:hover {
 	cursor: not-allowed;
 	box-shadow: none;
 	transform: none;
-}
+} */
 
-/* FORMS */
 
 form {
 	width: 100%;

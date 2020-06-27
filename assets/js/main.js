@@ -58,7 +58,7 @@ timer = () => {
     clearInterval(timerInterval);
     localStorage.setItem("mostRecentScore", score);
     //go to the end page
-    return window.location.assign("end.html");
+    return window.location.assign("last_page.html");
   } else {
     timerElement.textContent = timerCount;
   }
@@ -69,7 +69,7 @@ getNewQuestion = () => {
     clearInterval(timerInterval);
     localStorage.setItem("mostRecentScore", score);
     //go to the end page
-    return window.location.assign("end.html");
+    return window.location.assign("last_page.html");
   }
   questionCounter++;
   progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;

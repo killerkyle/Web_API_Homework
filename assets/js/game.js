@@ -11,7 +11,7 @@ let questionCounter = 0;
 let availableQuesions = [];
 
 var timerInterval;
-var timerCount = 60;
+var timerCount = 30;
 
 let questions = [
   {

@@ -1,7 +1,6 @@
 const highScoresList = document.getElementById('highScoresList');
 const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
 
-// Converting array to an li element
 highScoresList.innerHTML =
 	highScores
 		.map( score => {

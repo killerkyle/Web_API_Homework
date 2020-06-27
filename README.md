@@ -9,4 +9,6 @@ I have random 3 questions that I found and added in.
 
 ![](https://github.com/killerkyle/Web_API_Homework/blob/master/assets/Screen%20Shot%202020-06-27%20at%209.29.12%20AM.png)
 
-![](
+![](https://github.com/killerkyle/Web_API_Homework/blob/master/assets/Screen%20Shot%202020-06-27%20at%209.33.09%20AM.png)
+
+![](https://github.com/killerkyle/Web_API_Homework/blob/master/assets/Screen%20Shot%202020-06-27%20at%209.35.05%20AM.png)
